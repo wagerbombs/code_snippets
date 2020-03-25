@@ -5,3 +5,5 @@ __pycache__/
 # Video Scripts
 s.txt
 script.txt
+Django_Blog/07-Login-Logout-Authentication/.vscode/settings.json
+Django_Blog/07-Login-Logout-Authentication/django_project/blog/models.py
